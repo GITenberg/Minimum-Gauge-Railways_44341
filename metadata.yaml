@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42699'
     url: http://www.gutenberg.org/2009/agents/42699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44341#Minimum-Gauge-Railways
 gutenberg_issued: '2013-12-03'
 gutenberg_type: Text
 identifiers:
