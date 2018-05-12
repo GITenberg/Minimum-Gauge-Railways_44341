@@ -1,0 +1,26 @@
+_repo: Minimum-Gauge-Railways_44341
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heywood, Arthur Percival, Sir, bart.
+    birthdate: 1849
+    deathdate: 1916
+    gutenberg_agent_id: '42699'
+    url: http://www.gutenberg.org/2009/agents/42699
+description: ''
+gutenberg_issued: '2013-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads, Local and light -- England'
+- !lcc 'TF'
+title: Minimum Gauge Railways
+url: http://www.gutenberg.org/ebooks/44341
